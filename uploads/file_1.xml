@@ -1,0 +1,14 @@
+<EventNotificationAlert version="2.0" xmlns="http://www.isapi.org/ver20/XMLSchema">
+<ipAddress>192.168.100.105</ipAddress>
+<ipv6Address>::</ipv6Address>
+<protocol>HTTP</protocol>
+<macAddress>bc:5e:33:43:e3:f7</macAddress>
+<channelID>2</channelID>
+<dateTime>2024-04-17T15:58:25.000+07:00</dateTime>
+<activePostCount>23</activePostCount>
+<eventType>illaccess</eventType>
+<eventState>active</eventState>
+<eventDescription>illaccess alarm</eventDescription>
+<channelName>IP CAPTURE CAMERA</channelName>
+<deviceID></deviceID>
+</EventNotificationAlert>
